@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 
 const CircleWrapper = styled.svg`
-width: 100%
+width: 100%;
 height: 100%;
 
 `;
